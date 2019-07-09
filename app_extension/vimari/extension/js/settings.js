@@ -3,8 +3,8 @@ function getSettings() {
         'modifier': undefined,
         'excludedUrls': '',
 
-        'hintToggle': 'f',
-        'newTabHintToggle': 'F',
+        'hintToggle': 'e',
+        'newTabHintToggle': 'o',
         'linkHintCharacters': 'uiaeosnrtdyxvlcwkhgfq',
         'detectByCursorStyle': false,
 
