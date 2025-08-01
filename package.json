@@ -5,6 +5,6 @@
   "homepage": "https://github.com/guyht/vimari",
   "devDependencies": {
     "expect.js": "^0.3.1",
-    "jest": "^24.9.0"
+    "jest": "^30.0.5"
   }
 }
