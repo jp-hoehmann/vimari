@@ -7,7 +7,7 @@ class ViewController: NSViewController {
     @IBOutlet var spinner: NSProgressIndicator!
     
     private enum Constant {
-        static let extensionIdentifier = "net.televator.Vimari.SafariExtension"
+        static let extensionIdentifier = "jp.hoehmann.Vimari.SafariExtension"
         static let openSettings = "openSettings"
         static let resetSettings = "resetSettings"
     }
